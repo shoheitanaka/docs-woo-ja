@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+WooCommerce Docs for Japanese (non official)
 =======================================
 
 This GitHub template includes fictional Python library
