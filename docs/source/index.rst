@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to WooCommerce　日本語対応（非公式）ドキュメント
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
