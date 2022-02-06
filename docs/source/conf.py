@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'WooCommerce 日本語サポート（非公式）'
+copyright = '2022, Shohei Tanaka'
+author = 'Shohei Tanaka'
 
 release = '0.1'
 version = '0.1.0'
@@ -20,8 +20,8 @@ extensions = [
 ]
 
 intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
+    'woocommerce': ('https://woocommerce.com/', None),
+    'wordpress': ('https://ja.wordpress.org/', None),
 }
 intersphinx_disabled_domains = ['std']
 
